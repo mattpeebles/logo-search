@@ -1,3 +1,58 @@
-.scholar-color{
-	background-ima
+body{
+	max-height: 100vh;
+}
+
+#form-container{
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#form-label-container{
+	text-align: center;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	font-family: 'Cormorant SC', serif;
+	font-size: 28px;
+	color: #8C2155;
+}
+
+#input-container{
+	text-align: center;
+	padding-top: 5%;
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #AED4E6;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+.input{
+	display: inline-block; 
+}
+
+#submit{
+	margin-top: 2%;
+	margin-bottom: 2%;
+	background-color: maroon;
+	color: white;
+	font-variant: small-caps;
+	width: 20%;
+	border: 0;
+}
+
+#logo-container{
+	margin-left: auto;
+	margin-right: auto;
+	width: 85%;
+}
+
+.logo-row{
+	margin-top: 5%;
+	text-align:center;
+}
+
+.img{
+	width:100%;
 }
